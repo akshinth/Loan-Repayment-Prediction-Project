@@ -75,8 +75,3 @@ To run this project, you need to have Python installed along with the following 
 - **seaborn**
 - **scikit-learn**
 
-### Steps to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/loan-repayment-prediction.git
