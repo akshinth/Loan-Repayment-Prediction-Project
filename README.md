@@ -63,7 +63,6 @@ The dataset contains the following columns:
 ## Conclusion
 
 - Summarized findings and discussed model performance.
-- Mentioned potential improvements and next steps.
 
 ## Usage
 
